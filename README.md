@@ -31,7 +31,7 @@ In addition, I wanted to spearhead the creation of a publicly available report i
    - All of the information has been added onto an Excel speadsheet that will be made available and free to use.
 
 
-## Diffciulties
+## Difficulties
 - Some difficulties in attempting to compile textile bin location data include:
     - Outdated custom google map for bin locations that contradict updated google map locations
     - Innacurate bin location pinpoint
