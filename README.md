@@ -6,7 +6,7 @@ The company's main service is textile waste recycling and management for post-co
   - Equipment
   - Logistics
   - Promotional material
-  - Personalization of the services
+  - Personalization of services
   - Data Collection and Sharing
 
 The concept was brought to the island in 2014 by the CEO, Paul Curry, who has 25 years of experience and had also previously established another textile waste management company "Bay State Textiles Inc." which currently provides services to more than 150 counties in Massachusetts and Conneticut. Today, the company provides services to 60+ municipalities in Puerto Rico. 
@@ -31,7 +31,8 @@ In addition, I wanted to spearhead the creation of a publicly available report i
    - All of the information has been added onto an Excel speadsheet that will be made available and free to use.
 
 
-## Difficulties
-- Some difficulties in attempting to compile textile bin location data include:
+## Constraints
+- Some constraints in attempting to compile textile bin location data include:
     - Outdated custom google map for bin locations that contradict updated google map locations
     - Innacurate bin location pinpoint
+    - Ambiguous location to attribute the bin placement to
