@@ -14,7 +14,7 @@ The concept was brought to the island in 2014 by the CEO, Paul Curry, who has 25
 ## Purpose
 The purpose of this project is to serve as part of a self-guided learning experience for myself as an aspiring data analyst and learn how data can be used to help businesses identify opportunities as well as showcase the skills and current technologies I learn along the way.
 
-In addition, I wanted to spearhead the creation of a publicly available report in regards to how this initiative has impacted the island since its creation, analysze current operations, and what future opportunities can be identified through the current available data.
+In addition, I wanted to spearhead the creation of a publicly available report in regards to how this initiative has impacted the island since its creation, analyze current operations, and what future opportunities can be identified through the currently available data.
 
 ## Steps
 1. Gather Data
